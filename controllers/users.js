@@ -12,7 +12,7 @@ const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const passport = require('passport');
-// load mongoDB user model
+// load mongoDB user modell
 const User = require('../models/user');
 
 // test route
